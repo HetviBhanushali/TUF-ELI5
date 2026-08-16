@@ -1,4 +1,4 @@
-# Page 2 — Meet Eve, the Attacker
+# Meet Eve, the Attacker
 
 To make this easier to follow, let's meet our cast:
 

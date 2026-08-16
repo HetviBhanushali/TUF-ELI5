@@ -1,4 +1,4 @@
-# Page 3 — What Can Go Wrong?
+# What Can Go Wrong?
 
 Eve isn't limited to one trick. Here are four different ways she can attack an update system.
 

@@ -1,4 +1,4 @@
-# Page 4 — What Is TUF?
+# What Is TUF?
 
 Now that we know what can go wrong, we can finally introduce TUF properly.
 

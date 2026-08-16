@@ -1,4 +1,4 @@
-# Page 6 — TUF Roles (Simplified)
+# TUF Roles (Simplified)
 
 Before we throw around words like *Root*, *Targets*, *Snapshot*, and *Timestamp*, let's use something familiar.
 

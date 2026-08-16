@@ -1,4 +1,4 @@
-# Page 1 — Why Should We Care About Software Updates?
+# Why Should We Care About Software Updates?
 
 *A story about Alice, Bob, and a sneaky attacker named Eve*
 

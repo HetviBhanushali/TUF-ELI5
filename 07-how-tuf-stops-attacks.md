@@ -1,4 +1,4 @@
-# Page 7 — How TUF Stops Each Attack
+# How TUF Stops Each Attack
 
 Here's where everything from this story ties together:
 
@@ -13,5 +13,3 @@ Here's where everything from this story ties together:
 This is really the whole point of TUF in one table: **every attack has a matching guard, and every guard maps to a real mechanism.**
 
 ---
-
-*This page can later be adapted into a standalone contribution connecting attacks to TUF mechanisms.*
